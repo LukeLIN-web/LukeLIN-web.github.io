@@ -11,49 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Zhejiang University, 2022
+* M.S. in King Abduallah University of Science and Technology, 2023 (expected)
+* Ph.D in King Abduallah University of Science and Technology, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: ML Engineer Internship
+  * Beijing VirtAI Tech
+  * Duties included:  Integrate PaddlePaddle distribution framework and DGL library into our machine learning performance measurement system Orion Perf
+  * Survey the PaddlePaddle distribution, participate in weekly machine learning sharing
+* Summer 2021: Research Assistant
+  * Hong Kong University
+  * Duties included: GPU resource allocation experiment 
+  * Supervisor: Professor C. Wu
+* Fall 2020: Research Assistant
+  * Zhejiang University
+  * Duties included: Used gem5 to conduct the cache experiment.
+  * Supervisor: Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.html)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Git, LateX
+* Frameworks
+  * Pytorch
+  * PaddlePaddle
+* Languages
+  * Python
+  * Java
+  * MATLAB
+  * Shell
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
