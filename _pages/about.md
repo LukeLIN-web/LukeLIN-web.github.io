@@ -10,7 +10,10 @@ redirect_from:
 
 Hello & Welcome!:)
 
-I’m a first year CS MS/PhD Student at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en). I I obtained my bachelor degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I have obtained Second-Class Scholarships in 2020&2021, with no more than 8% of students awarded. I am very passionate about exploring new things. 
+I’m a first year CS MS/PhD Student at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), advised by Prof. [Marco Canini](https://mcanini.github.io/).  I I obtained my bachelor degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I have obtained Second-Class Scholarships in 2020&2021, with no more than 8% of students awarded. My research interests include Machine Learning System and Graph Neural Networks.
+
+
+##
 
 ## Academic Experience
 
@@ -24,7 +27,7 @@ Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.h
 
 B.E. Student @ Zhejiang University Sept. 2018 – June 2022 
 
-I am a member of College of Information Science and Electrical Engineering, majoring in Electronic Engineering
+I am a member of College of Information Science and Electrical Engineering.
 
 ## Friends
 
