@@ -13,25 +13,27 @@ Hello & Welcome!:)
 I’m a first year CS MS/PhD Student at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), advised by Prof. [Marco Canini](https://mcanini.github.io/).  I I obtained my bachelor degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I have obtained Second-Class Scholarships in 2020&2021, with no more than 8% of students awarded. My research interests include Machine Learning System and Graph Neural Networks.
 
 
-##
+## Education
 
-## Academic Experience
+MS/PhD student @ King Abdullah University of Science and Technology          Sept. 2022 - Present
 
-Research Assistant July 2021 – Sept. 2021
+B.E. Student @ Zhejiang University          Sept. 2018 – June 2022 
 
-Under the supervision of Professor C. Wu, the main research direction is the resource allocation and device placement for Deep Learning Clusters. I implement the resource allocation experiment with deep reinforcement learning
+## Internship
 
-Research Assistant Sept. 2020 — June 2021
+Infrastructure Internship @ Beijing VirtAI Tech         JMarch 2022 - July 2022
+
+Integrate PaddlePaddle distribution framework and DGL library into company’s machine learning performance mea- surement system Orion Perf.
+
+Research Assistant @HongKong University         July 2021 – Sept. 2021
+
+Under the supervision of Professor C. Wu, the main research direction is the resource allocation and device placement for Deep Learning Clusters. I implement the resource allocation experiment with deep reinforcement learning.
+
+Research Assistant @ Zhejiang University           Sept. 2020 — June 2021
 
 Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.html), worked on acceleration of Hardware transcation memory. Used gem5 to simulate the connection between cache and memory
 
-B.E. Student @ Zhejiang University Sept. 2018 – June 2022 
-
-I am a member of College of Information Science and Electrical Engineering.
-
 ## Friends
-
-I do not know how to list in random order like [About (ice1000.org)](http://ice1000.org/pages/about.html)
 
 [PepcyCh](http://pepcy.cf/)
 
