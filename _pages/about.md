@@ -23,7 +23,7 @@ B.E. Student @ Zhejiang University          Sept. 2018 – June 2022
 
 Infrastructure Internship @ Beijing VirtAI Tech         JMarch 2022 - July 2022
 
-Integrate PaddlePaddle distribution framework and DGL library into company’s machine learning performance mea- surement system Orion Perf.
+Integrate PaddlePaddle distribution framework and DGL library into company’s machine learning performance measurement system Orion Perf.
 
 Research Assistant @HongKong University         July 2021 – Sept. 2021
 
