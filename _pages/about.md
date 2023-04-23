@@ -38,6 +38,7 @@ Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.h
 
 ## Public Services
 Serve as the reviewer for EuroSys Shadow PC.
+MLSys'23 Artifact Evaluation Committee.
 
 ## Friends
 
