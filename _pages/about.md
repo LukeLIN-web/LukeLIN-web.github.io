@@ -34,10 +34,9 @@ Research Assistant @ Zhejiang University           Sept. 2020 — June 2021
 
 Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.html), worked on acceleration of Hardware transcation memory. Used gem5 to simulate the connection between cache and memory
 
-
-
 ## Public Services
-Serve as the reviewer for EuroSys Shadow PC.
+Serve as the reviewer for EuroSys'23 Shadow Committee.
+
 MLSys'23 Artifact Evaluation Committee.
 
 ## Friends
