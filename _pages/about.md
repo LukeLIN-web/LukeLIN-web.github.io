@@ -20,9 +20,9 @@ MS student @ King Abdullah University of Science and Technology          Sept. 2
 
 B.E. Student @ Zhejiang University          Sept. 2018 – June 2022 
 
-## Internship
+## Experiences
 
-Infrastructure Internship @ Beijing VirtAI Tech         JMarch 2022 - July 2022
+Infrastructure Internship @ Beijing VirtAI Tech    March 2022 - July 2022
 
 Integrate the PaddlePaddle distribution framework and DGL library into the company’s machine learning performance measurement system Orion Perf.
 
