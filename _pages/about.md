@@ -16,7 +16,7 @@ In my normal life, I have great passions for frisbee and writing. Here is my med
 
 ## Education
 
-MS/PhD student @ King Abdullah University of Science and Technology          Sept. 2022 - Present
+MS student @ King Abdullah University of Science and Technology          Sept. 2022 - Dec.2023 (expected)
 
 B.E. Student @ Zhejiang University          Sept. 2018 – June 2022 
 
