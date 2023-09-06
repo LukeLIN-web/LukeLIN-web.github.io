@@ -38,20 +38,3 @@ Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.h
 Serve as the reviewer for EuroSys'23 Shadow Committee.
 
 MLSys'23 Artifact Evaluation Committee.
-
-## Friends
-
-
-[PepcyCh](http://pepcy.cf/)
-
-[qiangren27](https://guoziyang27.github.io/)
-
-[Jones.M](https://miaochenlu.github.io/)
-
-[bebinca](https://bebinca.github.io/)
-
-[colliot](https://colliot.me/en/)
-
-[Dreamerryao](https://dreamerryao.wiki/)
-
-[Stanley](https://junhao-zhu.github.io/)
