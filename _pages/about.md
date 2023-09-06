@@ -22,9 +22,9 @@ B.E. Student @ Zhejiang University          Sept. 2018 – June 2022
 
 ## Experiences
 
-**Research Project @ UMass Amherst**       Sept 2022 – Present
+**Research Assistant @ UMass Amherst**       May 2023 – August 2023
 
-• Works with Prof. Hui Guan and Prof. Marco Serafini, taking the primary responsibility. Onsite visit UMASS in the 2023 Summer
+• Works with Prof. Hui Guan and Prof. Marco Serafini, taking the primary responsibility.
 
 • Commit neighbor sampling codes to the PyTorch Geometric repository
 
