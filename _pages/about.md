@@ -22,7 +22,7 @@ B.E. Student @ Zhejiang University          Sept. 2018 – June 2022
 
 ## Experiences
 
-Research Project @ UMass Amherst       Sept 2022 – Present
+**Research Project @ UMass Amherst**       Sept 2022 – Present
 
 • Works with Prof. Hui Guan and Prof. Marco Serafini, taking the primary responsibility. Onsite visit UMASS in the 2023 Summer
 
@@ -32,15 +32,15 @@ Research Project @ UMass Amherst       Sept 2022 – Present
 
 • Condense the history to decrease random access and optimize GPU memory usage. Experimental results show it saves GPU memory
 
-Infrastructure Internship @ Beijing VirtAI Tech    March 2022 - July 2022
+**Infrastructure Internship @ Beijing VirtAI Tech**    March 2022 - July 2022
 
 Integrate the PaddlePaddle distribution framework and DGL library into the company’s machine learning performance measurement system, Orion Perf.
 
-Research Assistant @HongKong University         July 2021 – Sept. 2021
+**Research Assistant @HongKong University**         July 2021 – Sept. 2021
 
 Under the supervision of Professor C. Wu, the main research direction is the resource allocation and device placement for Deep Learning Clusters. I implemented the resource allocation experiment with deep reinforcement learning.
 
-Research Assistant @ Zhejiang University           Sept. 2020 — June 2021
+**Research Assistant @ Zhejiang University**           Sept. 2020 — June 2021
 
 Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.html), I worked on the acceleration of Hardware transaction memory. Used gem5 to simulate the connection between cache and memory
 
