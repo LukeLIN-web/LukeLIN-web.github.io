@@ -12,7 +12,7 @@ Hello & Welcome!:)
 
 I’m a second-year CS MS Student at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), advised by Prof. [Marco Canini](https://mcanini.github.io/).  I obtained my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I obtained Second-Class Scholarships in 2020 and 2021, with no more than 8% of students awarded. My research interests include Machine Learning Systems and graph neural networks.
 
-In my normal life, I have great passions for frisbee and writing. Here is my [medium](https://medium.com/@juyi.lin/) 
+In my normal life, I have great passions for frisbee and writing. Here is my [medium](https://medium.com/@juyi.lin/). 
 
 ## Education
 
