@@ -25,8 +25,11 @@ B.E. Student @ Zhejiang University          Sept. 2018 – June 2022
 Research Project @ UMass Amherst       Sept 2022 – Present
 
 • Works with Prof. Hui Guan and Prof. Marco Serafini, taking the primary responsibility. Onsite visit UMASS in the 2023 Summer
+
 • Commit neighbor sampling codes to the PyTorch Geometric repository
+
 • Independently develop program, store intermediate embeddings on the GPU, and prune the computation graph
+
 • Condense the history to decrease random access and optimize GPU memory usage. Experimental results show it saves GPU memory
 
 Infrastructure Internship @ Beijing VirtAI Tech    March 2022 - July 2022
