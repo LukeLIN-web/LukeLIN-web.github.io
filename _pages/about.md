@@ -12,7 +12,7 @@ Hello & Welcome!:)
 
 I’m a second-year CS MS Student at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), advised by Prof. [Marco Canini](https://mcanini.github.io/).  I obtained my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I obtained Second-Class Scholarships in 2020 and 2021, with no more than 8% of students awarded. My research interests include Machine Learning Systems and graph neural networks.
 
-In my normal life, I have great passions for frisbee and writing. Here is my [medium](https://medium.com/@juyi.lin/). 
+In my daily life, I have great passions for frisbee and writing. Here is my [medium](https://medium.com/@juyi.lin/). 
 
 ## Education
 
@@ -24,11 +24,11 @@ B.E. Student @ Zhejiang University          Sept. 2018 – June 2022
 
 **Research Assistant @ UMass Amherst**       May 2023 – August 2023
 
-• Works with Prof. Hui Guan and Prof. Marco Serafini, taking the primary responsibility.
+• Collaborated with Prof. Hui Guan and Prof. Marco Serafini, taking the primary responsibility. Onsite visit UMASS in the 2023 Summer
 
-• Commit neighbor sampling codes to the PyTorch Geometric repository
+• Contributed to the PyTorch Geometric repository with neighbor sampling codes
 
-• Independently develop program, store intermediate embeddings on the GPU, and prune the computation graph
+• Designmini-batch splitting algorithms,prune unnecessary computation graphs,and extract the intermediate embedding from history
 
 • Condense the history to decrease random access and optimize GPU memory usage. Experimental results show it saves GPU memory
 
@@ -38,13 +38,16 @@ Integrate the PaddlePaddle distribution framework and DGL library into the compa
 
 **Research Assistant @HongKong University**         July 2021 – Sept. 2021
 
-Under the supervision of Professor C. Wu, the main research direction is the resource allocation and device placement for Deep Learning Clusters. I implemented the resource allocation experiment with deep reinforcement learning.
+work on resource allocation and device placement for Deep Learning Clusters. I use deep reinforcement learning(DRL) to generate better decisions in device placement problems.
 
 **Research Assistant @ Zhejiang University**           Sept. 2020 — June 2021
 
-Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.html), I worked on the acceleration of Hardware transaction memory. Used gem5 to simulate the connection between cache and memory
+Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.html), I worked on the acceleration of Hardware transaction memory. 
 
 ## Public Services
-Serve as the reviewer for EuroSys'23 Shadow Committee.
+EuroSys’23 Shadow PC Reviewer
 
-MLSys'23 Artifact Evaluation Committee.
+Artifact Evaluation: MLSys’23, EuroSys’24
+
+Open Source Promotion Plan 2023
+
