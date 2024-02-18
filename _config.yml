@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LukeLIN-web"
+  # github           : "LukeLIN-web"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   # stackoverflow    :  http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "juyi_lin"
+  #twitter          : "juyi_lin"
   vine             :
   weibo            :
   xing             :
