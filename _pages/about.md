@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!--
 Hello & Welcome!:)
 
 I’m a second-year CS MS Student at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), advised by Prof. [Marco Canini](https://mcanini.github.io/).  I obtained my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I obtained Second-Class Scholarships in 2020 and 2021, with no more than 8% of students awarded. My research interests include Machine Learning Systems and graph neural networks.
@@ -46,6 +46,7 @@ Under the supervision of Professor [Bu Kai](http://list.zju.edu.cn/kaibu/index.h
 
 ## Public Services
 EuroSys’23 Shadow PC Reviewer
+--> 
 
 Artifact Evaluation: MLSys’23, EuroSys’24
 
