@@ -12,7 +12,7 @@ Hello & Welcome!:)
 
 I earned my MSCS degree at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en) in 2023.  I obtained my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022. I was honored to receive Second-Class Scholarships in both 2020 and 2021, with no more than 8% of students awarded. 
 
-In my daily life, I have great passions for frisbee and writing. Here is my [medium](https://medium.com/@juyi.lin/). 
+In my daily life, I have great passions for frisbee and writing.
 
 ## Education
 
