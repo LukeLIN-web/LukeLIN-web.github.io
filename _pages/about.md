@@ -28,7 +28,7 @@ announcements:
 ---
 
 
-I am a second-year PhD student at [Northeastern University](https://www.northeastern.edu/) advised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/).  I earned  my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022 and  MSCS degree from [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en) in 2023, where I was advised by [Prof. Marco Canini](https://mcanini.github.io/).
+I am a second-year PhD student at [Northeastern University](https://www.northeastern.edu/) advised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/).  I earned  my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022 and  MSCS degree from [KAUST](https://www.kaust.edu.sa/en) in 2023, where I was advised by [Prof. Marco Canini](https://mcanini.github.io/).
 
 My research interests lie on Embodied AI and Generative Model.
 
