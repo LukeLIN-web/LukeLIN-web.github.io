@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📣 New arXiv paper released: [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116)
+New arXiv paper released: [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116)
