@@ -412,14 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-alter-have-been-accepted-to-nips-2025",
-          title: 'ALTER have been accepted to NIPS 2025!',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-new-arxiv-paper-released-vote-vision-language-action-optimization-with-trajectory-ensemble-voting",
+            },},{id: "news-new-arxiv-paper-released-vote-vision-language-action-optimization-with-trajectory-ensemble-voting",
           title: '📣 New arXiv paper released: VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting',
+          description: "",
+          section: "News",},{id: "news-alter-have-been-accepted-to-nips-2025",
+          title: 'ALTER have been accepted to NIPS 2025!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
