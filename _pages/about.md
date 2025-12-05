@@ -32,8 +32,14 @@ I am a second-year PhD student at [Northeastern University](https://www.northeas
 
 My research interests lie on Embodied AI and Generative Model. I am currently exploring opportunities for a Spring/Summer 2026 internship.
 
+---
 
 
+
+<div style="font-size: 0.95em; line-height: 2.5;">
+  <i class="fa-brands fa-github fa-fw" style="margin-right: 0.5em;"></i><a href="https://github.com/Video-Reason/VMEvalKit">VMEvalKit</a> <span style="font-size: 0.85em; color: #999;">video reasoning evaluation toolkit</span><br>
+  <i class="fa-brands fa-slack fa-fw" style="margin-right: 0.5em;"></i><a href="https://growingailikeachild.slack.com/join/shared_invite/zt-309yqd0sl-W8xzOkdBPha1Jh5rnee78A#/shared-invite/email">VMevalkit slack</a> <span style="font-size: 0.85em; color: #999;">community for VMEvalKit</span><br>
+</div>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
