@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -33,9 +33,9 @@ I am a second-year PhD student at [Northeastern University](https://www.northeas
 My research interests lie on Embodied AI and Generative Model. I am currently exploring opportunities for a Spring/Summer 2026 internship.
 
 I'm always happy to collaborate with graduate/undergraduate students. Please drop me an email if you want to work with me. Feel free to reach out if you're interested in my research.
+
+
 ---
-
-
 
 <div style="font-size: 0.95em; line-height: 2.5;">
   <i class="fa-brands fa-github fa-fw" style="margin-right: 0.5em;"></i><a href="https://github.com/Video-Reason/VMEvalKit">VMEvalKit</a> <span style="font-size: 0.85em; color: #999;">video reasoning evaluation toolkit</span><br>
