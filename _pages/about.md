@@ -32,6 +32,7 @@ I am a second-year PhD student at [Northeastern University](https://www.northeas
 
 My research interests lie on Embodied AI and Generative Model. I am currently exploring opportunities for a Spring/Summer 2026 internship.
 
+I'm always happy to collaborate with graduate/undergraduate students. Please drop me an email if you want to work with me. Feel free to reach out if you're interested in my research.
 ---
 
 
