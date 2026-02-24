@@ -391,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-arxiv-paper-released-vote-vision-language-action-optimization-with-trajectory-ensemble-voting",
-          title: 'New arXiv paper released: VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting',
-          description: "",
-          section: "News",},{id: "news-alter-have-been-accepted-to-nips-2025",
+            },},{id: "news-alter-have-been-accepted-to-nips-2025",
           title: 'ALTER have been accepted to NIPS 2025!',
+          description: "",
+          section: "News",},{id: "news-new-arxiv-paper-released-a-very-big-video-reasoning-suite-co-first-author-we-release-a-new-large-scale-datasets-and-benchmark-to-explore-a-key-question-can-video-models-truly-reason-100-diverse-tasks-1m-videos-fully-open-source-dataset-code-paper-dataset-https-huggingface-co-datasets-video-reason-vbvr-dataset-code-https-github-com-video-reason-vbvr-evalkit-tree-main-we-hope-this-helps-push-forward-research-on-reasoning-in-video-understanding-and-generation-feedback-discussions-and-contributions-are-very-welcome",
+          title: 'New arXiv paper released: A Very Big Video Reasoning Suite (co-first author) We...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
