@@ -5,5 +5,9 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-“arxiv":
+"arxiv":
   url: https://arxiv.org/
+
+"ICML":
+  url: https://icml.cc/
+  color: "#0a2540"
