@@ -6,11 +6,9 @@ inline: true # false
 related_posts: false
 ---
 
-🎉 Releasing **PhyGround (first author) ** — a benchmark for the *physical plausibility* of text+image-to-video generation: 250 physics-aware prompts, 8 ti2v models scored on 3
-general + 13 physical-law rubrics, plus a human-aligned LoRA judge.     **Paper**: [arXiv](https://arxiv.org/abs/2605.10806)    **Dataset**:
+🎉 Releasing **PhyGround (first author)** — a benchmark for the *physical plausibility* of image-to-video generation: 250 physics-aware prompts, 8 ti2v models scored on 3
+general + 13 physical-law rubrics, plus a human-aligned judge model.     **Paper**: [arXiv](https://arxiv.org/abs/2605.10806)    **Dataset**:
 [HuggingFace](https://huggingface.co/datasets/NU-World-Model-Embodied-AI/phyground)
-**Judge**:
-[HuggingFace](https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B)
 **Code**: [GitHub](https://github.com/NU-World-Model-Embodied-AI/PhyGround).
 
 
