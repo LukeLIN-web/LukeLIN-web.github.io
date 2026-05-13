@@ -1,12 +1,17 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2025-10-05 15:59:00-0400
+date: 2026-05-13
 inline: true # false
 related_posts: false
 ---
 
-[ALTER](https://arxiv.org/abs/2505.21817) have been accepted to NIPS 2025!
+🎉 Releasing **PhyGround (first author) ** — a benchmark for the *physical plausibility* of text+image-to-video generation: 250 physics-aware prompts, 8 ti2v models scored on 3
+general + 13 physical-law rubrics, plus a human-aligned LoRA judge.     **Paper**: [arXiv](https://arxiv.org/abs/2605.10806)    **Dataset**:
+[HuggingFace](https://huggingface.co/datasets/NU-World-Model-Embodied-AI/phyground)
+**Judge**:
+[HuggingFace](https://huggingface.co/NU-World-Model-Embodied-AI/phyjudge-9B)
+**Code**: [GitHub](https://github.com/NU-World-Model-Embodied-AI/PhyGround).
 
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
