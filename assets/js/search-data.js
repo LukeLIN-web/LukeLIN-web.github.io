@@ -391,11 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-alter-have-been-accepted-to-nips-2025",
-          title: 'ALTER have been accepted to NIPS 2025!',
-          description: "",
-          section: "News",},{id: "news-a-very-big-video-reasoning-suite-is-accepted-by-icml-2026-paper-a-very-big-video-reasoning-suite-co-first-author-dataset-huggingface-code-github",
+            },},{id: "news-a-very-big-video-reasoning-suite-is-accepted-by-icml-2026-paper-a-very-big-video-reasoning-suite-co-first-author-dataset-huggingface-code-github",
           title: 'A Very Big Video Reasoning Suite is accepted by ICML 2026! Paper:A Very...',
+          description: "",
+          section: "News",},{id: "news-releasing-phyground-first-author-a-benchmark-for-the-physical-plausibility-of-text-image-to-video-generation-250-physics-aware-prompts-8-ti2v-models-scored-on-3-general-13-physical-law-rubrics-plus-a-human-aligned-lora-judge-paper-arxiv-dataset-huggingface-judge-huggingface-code-github",
+          title: '🎉 Releasing PhyGround (first author) ** — a benchmark for the physical plausibility...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
