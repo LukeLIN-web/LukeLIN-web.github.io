@@ -28,19 +28,25 @@ announcements:
 ---
 
 
-I am a PhD candidate at [Northeastern University](https://www.northeastern.edu/) advised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/).  I earned  my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022 and  MSCS degree from [KAUST](https://www.kaust.edu.sa/en) in 2023, where I was advised by [Prof. Marco Canini](https://mcanini.github.io/).
+I am a PhD candidate at [Northeastern University](https://www.northeastern.edu/) advised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/).  I earned my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022 and my MSCS degree from [KAUST](https://www.kaust.edu.sa/en) in 2023, where I was advised by [Prof. Marco Canini](https://mcanini.github.io/).
 
-My research interests lie on Generative Model for physics world. I am currently exploring opportunities for internships.
+My research interests lie in generative models for the physical world.
 
-I'm always happy to collaborate with graduate/undergraduate students. Please drop me an email if you want to work with me. Feel free to reach out if you're interested in my research.
+<span style="color: red;">I am actively seeking Internship opportunities in Spring & Summer 2027.</span>
 
+<!--after-news-->
 
----
+## Academic Services
 
+**Reviewer / Program Committee**: ICANN 2026, AAAI 2026, AAAI 2027, EuroSys 2023 (Shadow PC)
 
+**Artifact Evaluation**: MLSys 2023, EuroSys 2024, EuroSys 2025, OSDI 2024, USENIX ATC 2024
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Open Source**: Open Source Promotion Plan 2023
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Teaching
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+**Teaching Assistant**, EECE 2140 &mdash; Computing Fundamentals for Engineers, Northeastern University
+
+- Fall 2026 (20 hours/week)
+- Spring 2026

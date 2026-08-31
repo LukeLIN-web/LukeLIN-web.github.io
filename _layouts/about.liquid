@@ -38,7 +38,13 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    {%- comment -%}
+      Content placed after the `<!--after-news-->` marker in the page body is
+      rendered below the news / selected publications sections.
+    {%- endcomment -%}
+    {% assign about_parts = content | split: '<!--after-news-->' %}
+
+    <div class="clearfix">{{ about_parts[0] }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
@@ -62,6 +68,11 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Content after the news / publications sections -->
+    {% if about_parts.size > 1 %}
+      <div class="clearfix">{{ about_parts[1] }}</div>
     {% endif %}
 
     <!-- Social -->
