@@ -9,15 +9,11 @@ nav_order: 4
 
 {% if site.data.repositories.github_users %}
 
-## GitHub users
+## GitHub profile
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
+{% for user in site.data.repositories.github_users %}
+{% include repository/repo_user.liquid username=user %}
+{% endfor %}
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
@@ -37,11 +33,11 @@ nav_order: 4
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
+## GitHub repositories
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories row row-cols-1 row-cols-md-2">
   {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
+    {% include repository/repo.liquid entry=repo %}
   {% endfor %}
 </div>
 {% endif %}

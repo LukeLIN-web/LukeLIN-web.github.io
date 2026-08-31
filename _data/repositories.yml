@@ -1,9 +1,17 @@
+# Rendered locally by _includes/repository/*.liquid.
+# Descriptions are stored here (not fetched at build time) so the page never
+# depends on a third-party card service being up.
+
 github_users:
   - LukeLIN-web
 
-repo_description_lines_max: 2
-
 github_repos:
-  - NU-World-Model-Embodied-AI/PhyGround
-  - Video-Reason/VBVR-EvalKit
-  - LukeLIN-web/VOTE
+  - repo: NU-World-Model-Embodied-AI/PhyGround
+    description: Benchmarking physical reasoning in generative world models.
+    homepage: https://phyground.github.io
+  - repo: Video-Reason/VBVR-EvalKit
+    description: A framework for evaluating reasoning in foundational video models.
+    homepage: https://video-reason.com
+  - repo: LukeLIN-web/VOTE
+    description: Vision-Language-Action optimization with trajectory ensemble voting (ICANN 2026).
+    homepage: https://arxiv.org/abs/2507.05116
