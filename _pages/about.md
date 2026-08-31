@@ -46,7 +46,4 @@ My research interests lie in generative models for the physical world.
 
 ## Teaching
 
-**Teaching Assistant**, EECE 2140 &mdash; Computing Fundamentals for Engineers, Northeastern University
-
-- Fall 2026 (20 hours/week)
-- Spring 2026
+**Teaching Assistant**, EECE 2140 &mdash; Computing Fundamentals for Engineers, Northeastern University (Fall 2026, Spring 2026)
