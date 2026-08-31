@@ -8,7 +8,7 @@ category: research
 github: https://github.com/NU-World-Model-Embodied-AI/PhyGround
 ---
 
-**Physical Reasoning Benchmark for Generative World Models** &middot; Northeastern University &middot; Sept 2025 – Mar 2026
+**Physical Reasoning Benchmark for Generative World Models** &middot; Northeastern University &middot; Jan 2026 – May 2026
 
 [Paper](https://arxiv.org/abs/2605.10806) &middot;
 [Code](https://github.com/NU-World-Model-Embodied-AI/PhyGround) &middot;

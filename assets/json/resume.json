@@ -95,14 +95,14 @@
   "projects": [
     {
       "name": "Physical Reasoning Benchmark for Generative World Models",
-      "summary": "NEU, Sept 2025 – Mar 2026",
+      "summary": "NEU, Jan 2026 – May 2026",
       "highlights": [
         "Proposed and built PhyGround, a criteria-grounded benchmark for physical reasoning in generative video world models across a taxonomy of 13 physical laws (solid-body mechanics, fluid dynamics, optics), evaluating 8 video models.",
         "Led a large-scale human annotation study involving 459 annotators, 5,796 complete annotations, 37.4K+ fine-grained labels, with split-half ranking correlation Spearman's ρ > 0.90.",
         "Trained and released PhyJudge-9B, an open physics-specialized VLM judge that achieves 3.3% aggregate relative bias vs. 16.6% for Gemini-3.1-Pro."
       ],
-      "startDate": "2025-09-01",
-      "endDate": "2026-03-01",
+      "startDate": "2026-01-01",
+      "endDate": "2026-05-01",
       "url": "https://phyground.github.io/"
     },
     {
