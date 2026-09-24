@@ -38,7 +38,7 @@ My research interests lie in generative models for the physical world.
 
 ## Academic Services
 
-**Reviewer / Program Committee**: ICANN 2026, AAAI 2026, AAAI 2027, EuroSys 2023 (Shadow PC)
+**Reviewer / Program Committee**: ICLR 2027, ICANN 2026, AAAI 2026, AAAI 2027, WACV 2027 LVR Workshop, EuroSys 2023 (Shadow PC)
 
 **Artifact Evaluation**: MLSys 2023, EuroSys 2024, EuroSys 2025, OSDI 2024, USENIX ATC 2024
 

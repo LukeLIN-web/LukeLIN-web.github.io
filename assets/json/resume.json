@@ -177,7 +177,7 @@
   ],
   "volunteer": [
     {
-      "organization": "ICANN / AAAI / EuroSys",
+      "organization": "ICLR / ICANN / AAAI / WACV / EuroSys",
       "location": "",
       "position": "Reviewer & Program Committee",
       "url": "",
@@ -185,7 +185,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "ICANN-26 Reviewer, AAAI-26/27 Program Committee, EuroSys'23 Shadow PC Reviewer",
+        "ICLR-27 Reviewer, ICANN-26 Reviewer, AAAI-26/27 & WACV-27 LVR Workshop Program Committee, EuroSys'23 Shadow PC Reviewer",
         "Artifact Evaluation: MLSys'23, EuroSys'24/25, OSDI'24 & ATC'24",
         "Open Source Promotion Plan 2023"
       ]
