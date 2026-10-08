@@ -46,7 +46,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-futurewei-technologies-inc-as-a-research-intern-generative-ai-amp-amp-world-modeling-full-time",
           title: 'Joined Futurewei Technologies, Inc. as a Research Intern, Generative AI &amp;amp;amp; World Modeling...',
           description: "",
-          section: "News",},{id: "news-releasing-leap-first-author-learned-block-wise-evidence-retrieval-for-long-audio-video-perception-paper-arxiv",
+          section: "News",},{id: "news-releasing-leap-first-author-learned-block-wise-evidence-retrieval-for-long-audio-video-perception-paper-arxiv-website-leap-website",
           title: '🎉 Releasing LEAP (first author) — Learned Block-wise Evidence Retrieval for Long Audio-Video...',
           description: "",
           section: "News",},{id: "projects-phyground",
