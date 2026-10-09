@@ -28,7 +28,7 @@
       {
         "network": "Google Scholar",
         "username": "Juyi Lin",
-        "url": "https://scholar.google.com/citations?user=WMoctgAAAAJ"
+        "url": "https://scholar.google.com/citations?user=-WMoctgAAAAJ"
       }
     ]
   },
@@ -71,47 +71,49 @@
     {
       "name": "Futurewei Technologies, Inc.",
       "position": "Research Intern",
-      "url": "",
+      "url": "https://arxiv.org/abs/2609.39938",
       "startDate": "2026-05-01",
-      "endDate": "2026-08-01",
+      "endDate": "2026-09-01",
       "summary": "Research Intern, Generative AI & World Modeling team.",
       "highlights": [
-        "Built LEAP, a coarse-to-fine perception router on top of Qwen3 30BA3B omni model, improving the watch-the-whole-clip baseline by +6.0 pt on OmniVideoBench, and staying +3 pt overall across 5 public long-video QA benchmarks."
+        "Built LEAP end to end on Qwen3-Omni-30B-A3B for hour-scale audio-visual QA: the localization and answer stages, their two LoRAs, and the evaluation harness behind all reported numbers.",
+        "Method: per-block localization picks evidence windows; one bounded answer pass re-encodes only those windows.",
+        "Results: +4.5–16.8 pp over the Qwen3-Omni baseline on TraceAV, LVOmni, VideoOdyssey (1–4 h) and MMOU; transfers to MiniCPM-o 4.5 (+3.1–13.0 pp over its published results); answer input and peak context stay independent of recording duration; supports causal/streaming queries without streaming-specific training."
       ]
     },
     {
       "name": "Beijing VirtAI Tech",
-      "position": "Infrastructure Intern",
+      "position": "Infrastructure Engineering Intern",
       "url": "",
       "startDate": "2022-03-01",
       "endDate": "2022-07-01",
       "summary": "",
       "highlights": [
-        "Integrated PaddlePaddle distribution library and Deep Graph Library (DGL) into the performance measurement system.",
-        "Conducted an in-depth performance analysis of PaddlePaddle distributed training."
+        "Integrated the PaddlePaddle distributed training library and Deep Graph Library (DGL) into the in-house performance measurement system, extending it to two new framework backends.",
+        "Profiled PaddlePaddle distributed training and reported its scaling bottlenecks to the platform team."
       ]
     }
   ],
   "projects": [
     {
       "name": "Physical Reasoning Benchmark for Generative World Models",
-      "summary": "NEU, Jan 2026 – May 2026",
+      "summary": "NEU, Sept 2025 – Mar 2026",
       "highlights": [
-        "Proposed and built PhyGround, a criteria-grounded benchmark for physical reasoning in generative video world models across a taxonomy of 13 physical laws (solid-body mechanics, fluid dynamics, optics), evaluating 8 video models.",
-        "Led a large-scale human annotation study involving 459 annotators, 5,796 complete annotations, 37.4K+ fine-grained labels, with split-half ranking correlation Spearman's ρ > 0.90.",
-        "Trained and released PhyJudge-9B, an open physics-specialized VLM judge that achieves 3.3% aggregate relative bias vs. 16.6% for Gemini-3.1-Pro."
+        "Proposed and built PhyGround, a criteria-grounded benchmark for physical reasoning in generative video world models built on 250 curated prompts and a taxonomy of 13 physical laws (mechanics, fluids, optics); evaluated 8 video models against it.",
+        "Led a large-scale human annotation study: 459 annotators, 5,796 complete annotations, 37.4K+ fine-grained labels, with split-half ranking correlation Spearman's ρ > 0.90.",
+        "Trained and released PhyJudge-9B, an open physics-specialized VLM judge reaching 3.3% aggregate relative bias vs. 16.6% for Gemini-3.1-Pro."
       ],
-      "startDate": "2026-01-01",
-      "endDate": "2026-05-01",
+      "startDate": "2025-09-01",
+      "endDate": "2026-03-01",
       "url": "https://phyground.github.io/"
     },
     {
       "name": "Video Reasoning Benchmark",
       "summary": "NEU, Sept 2025 – Jan 2026",
       "highlights": [
-        "Proposed and implemented VBVR-EvalKit, a benchmark for evaluating reasoning capabilities in video generation models, covering 40 models.",
-        "Co-lead a team of 22 researchers, designing the data generation and benchmark framework, defining the development roadmap, and contributing core code and evaluation metrics. Launched an open-source ecosystem including 100+ synthetic data generators.",
-        "Proposed and built a video reasoning dataset, covering 200 curated reasoning tasks and 1M+ video clips (1000× larger than prior datasets)."
+        "Proposed and co-led (team of 22) VBVR-EvalKit, a reasoning benchmark for video generation models, evaluating 9 models (4 proprietary, 5 open-weight).",
+        "Designed the data-generation and benchmark framework, set the roadmap, and contributed core code and evaluation metrics; shipped an open-source ecosystem with 100+ synthetic data generators.",
+        "Built a dataset of 200 curated reasoning tasks and 1M+ video clips, 1000× larger than prior datasets; released eval suite = 100 tasks × 5 samples (500 videos)."
       ],
       "startDate": "2025-09-01",
       "endDate": "2026-01-01",
@@ -121,10 +123,9 @@
       "name": "Vision Language Action (VLA) Model",
       "summary": "NEU & Funded by EmbodyX, Jan 2025 – Sept 2025",
       "highlights": [
-        "Proposed VOTE, an efficient fine-tuning framework for parallel action prediction in VLA models, reducing computational overhead and accelerating inference. Used by Cisco and EmbodyX.",
-        "Proposed an ensemble voting strategy for the action sampling, improving model performance and enhancing generalization across diverse tasks.",
-        "Improved the average success rates of OpenVLA by over 20% across four LIBERO task suites, surpassed 7% average success rate of the state-of-the-art VLA model in SimplerEnv WidowX Robot, and accelerated action generation throughput by 39× on edge device NVIDIA Jetson Orin.",
-        "Pretrained Llama3.2-1B LLM into a vision-language model (VLM) and fine-tuned with VOTE method, surpassing 7B OpenVLA's average success rate by 16% across four LIBERO task suites."
+        "Proposed VOTE, a fine-tuning framework for parallel VLA action prediction, using an ensemble voting strategy over sampled actions to cut compute while improving success and generalization; adopted by Cisco and EmbodyX.",
+        "+20% average success over OpenVLA across four LIBERO suites, +7% over the state-of-the-art VLA model on SimplerEnv WidowX, and 39× faster action generation on NVIDIA Jetson Orin.",
+        "Pretrained Llama3.2-1B into a VLM and fine-tuned it with VOTE, beating 7B OpenVLA by 16% average success across the four LIBERO suites."
       ],
       "startDate": "2025-01-01",
       "endDate": "2025-09-01",
@@ -185,7 +186,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "ICLR-27 Reviewer, ICANN-26 Reviewer, AAAI-26/27 & WACV-27 LVR Workshop Program Committee, EuroSys'23 Shadow PC Reviewer",
+        "ICLR-27 Reviewer, NeurIPS-26 DiffuLM Workshop Reviewer, ICANN-26 Reviewer, AAAI-26/27 & WACV-27 LVR Workshop Program Committee, EuroSys'23 Shadow PC Reviewer",
         "Artifact Evaluation: MLSys'23, EuroSys'24/25, OSDI'24 & ATC'24",
         "Open Source Promotion Plan 2023"
       ]
