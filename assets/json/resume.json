@@ -148,11 +148,11 @@
       "summary": "Maijunxian Wang*, Ruisi Wang*, Juyi Lin*, Ran Ji*, Thaddäus Wiedemer, Qingying Gao, and others (* equal contribution)"
     },
     {
-      "name": "VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting",
+      "name": "VOTE: Vision-Language-Action Model Optimization for Real-Time Robotic Manipulation",
       "publisher": "ICANN 2026",
       "releaseDate": "2026",
       "url": "https://arxiv.org/abs/2507.05116",
-      "summary": "Juyi Lin, Amir Taherin, Arash Akbari, Arman Akbari, Lei Lu, Guangyu Chen, Taskin Padir, Xiaomeng Yang, Weiwei Chen, Yiqian Li, Xue Lin, David Kaeli, Pu Zhao, Yanzhi Wang"
+      "summary": "Juyi Lin, Amir Taherin, Arash Akbari, Arman Akbari, Lei Lu, Guangyu Chen, Taskin Padir, Xiaomeng Yang, Jayanth Srinivasa, Xue Lin, David Kaeli, Yanzhi Wang, Pu Zhao, Xuan Shen"
     },
     {
       "name": "PhyGround: Benchmarking Physical Reasoning in Generative World Models",
