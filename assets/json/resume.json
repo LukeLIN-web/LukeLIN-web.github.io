@@ -134,6 +134,13 @@
   ],
   "publications": [
     {
+      "name": "LEAP: Learned Block-wise Evidence Retrieval for Long Audio-Video Perception",
+      "publisher": "Preprint (arXiv:2609.39938)",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2609.39938",
+      "summary": "Juyi Lin, Zhiqiang Lao, Jiali Cui, Lin Zhao, Pu Zhao, Dichang Zhang, Arman Akbari, Yu Qi, and others"
+    },
+    {
       "name": "Late Breaking Results: Audio-Language-Action Models with Direct Speech Conditioning for Robotic Manipulation",
       "publisher": "DAC 2026",
       "releaseDate": "2026",
