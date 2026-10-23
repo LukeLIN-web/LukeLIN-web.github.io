@@ -134,6 +134,13 @@
   ],
   "publications": [
     {
+      "name": "Late Breaking Results: Audio-Language-Action Models with Direct Speech Conditioning for Robotic Manipulation",
+      "publisher": "DAC 2026",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1145/3770743.3807726",
+      "summary": "Enfu Nan, Pu Zhao, Yixiao Chen, Lin Zhao, Juyi Lin, Chen Wang, Weiwei Chen, Yanzhi Wang"
+    },
+    {
       "name": "Cross-Platform Scaling of Vision-Language-Action Models from Edge to Cloud GPUs",
       "publisher": "GLSVLSI 2026",
       "releaseDate": "2026",
