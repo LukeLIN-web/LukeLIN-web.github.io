@@ -30,7 +30,7 @@ announcements:
 
 I am a PhD candidate at [Northeastern University](https://www.northeastern.edu/) advised by [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/).  I earned my bachelor's degree from [Zhejiang University](https://www.zju.edu.cn/) in 2022 and my MSCS degree from [KAUST](https://www.kaust.edu.sa/en) in 2023, where I was advised by [Prof. Marco Canini](https://mcanini.github.io/).
 
-My research interests lie in generative models for the physical world.
+My research interests lie in **generative models for the physical world**, including **world models**, **efficient generative models**, **multimodal learning**, and **visual understanding**.
 
 <span style="color: red;">I am actively seeking Internship opportunities in Spring & Summer 2027.</span>
 
